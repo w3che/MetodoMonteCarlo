@@ -22,4 +22,4 @@ Esta teoría debe ser generada en el lenguaje de su gusto, esta debe ser subida 
 
 El proyecto lo realice utilizando Visual Studio 2022 y genera un rango de numero aleatorios entre 100 a 10000. Posteriormente se muestra de forma grafica la posicion de los puntos generados en un eje X, Y. Al final se realiza un calculo para obtener un valor aproximado a Pi.
 
-![](/MetodoMonteCarlo.png.png)
+![](/MetodoMonteCarlo.png)
